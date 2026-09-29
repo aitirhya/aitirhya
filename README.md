@@ -43,32 +43,24 @@ I enjoy applying statistical methods and programming to biological and clinical 
 
 ## 📊 Featured Projects
 
-### 🩺 Pima Indians Diabetes — Regression Analysis
+### 🩺 Pima Diabetes Regression
+Statistical analysis of the Pima Indians Diabetes dataset using Python, including linear and logistic regression.
 
-Statistical analysis of the Pima Indians Diabetes dataset using Python.
-
-**Methods:**
-Linear Regression • Logistic Regression • Data Analysis • Model Interpretation
+[View Repository](https://github.com/aitirhya/pima-diabetes-regression)
 
 ---
 
-### 📈 Biostatistics Practice & Analysis
+### 🧬 IMPPAT Downloader
+Python/Jupyter workflow for retrieving and organizing molecular structure files from the IMPPAT database.
 
-Implementation and practice of statistical methods relevant to biomedical and clinical research.
-
-**Topics:**
-Hypothesis Testing • Confidence Intervals • t-tests • ANOVA • Chi-square Tests • Correlation • Regression • Probability Distributions
+[View Repository](https://github.com/aitirhya/imppat-downloader)
 
 ---
 
-### 🧬 IMPPAT SDF Downloader
+### ⚙️ Batch Preparation for Molecular Docking
+Python workflow used to prepare batches of 1,000 compounds from a dataset of 17,000+ compounds for FlexX molecular docking.
 
-A Python-based workflow for retrieving and organizing molecular structure files from the IMPPAT database.
-
-**Tools:**
-Python • Data Processing • File Automation • Chemical/Biomedical Data
-
----
+[View Repository](https://github.com/aitirhya/batch_prep)
 
 ## 📚 Currently Learning
 
